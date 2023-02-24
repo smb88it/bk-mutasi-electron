@@ -46,8 +46,8 @@
     "publish": [
       {
         "provider": "github",
-        "owner": "dark-people-zero",
-        "repo": "mutasi-global-electron"
+        "owner": "smb88it",
+        "repo": "bk-mutasi-electron"
       }
     ],
     "win": {
